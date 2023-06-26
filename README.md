@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ma-04
-- 👀 I’m interested in c#
-- 🌱 I’m currently learning c#
+- 👀 I’m interested in Sysadmin/Devops
+- 🌱 I’m currently learning python, c
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me?
 - Just mention me
